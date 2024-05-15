@@ -151,5 +151,15 @@ img {
         width: 100%;
         margin-bottom: 30px;
     }
+
+    .steps {
+        margin-bottom: 0;
+    }
+
+    .why-us {
+        background-color: rgb(33, 33, 33);
+        padding: 40px 0;
+        margin-bottom: 0;
+    }
     
 }
