@@ -137,3 +137,19 @@ img {
         width: 100%;
     }
 }
+
+
+/* dimensioni mobile */
+
+@media screen and (max-width: 480px) {
+
+    .row {
+        display: inline-block;
+    }
+
+    .lessons .col, .steps .col, .why-us .col-right, .why-us .col-left {
+        width: 100%;
+        margin-bottom: 30px;
+    }
+    
+}
